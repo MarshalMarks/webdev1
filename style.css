@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(22, 31, 14);
+    color: white;
+    padding: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 640px;
+}
+
+img {
+    width: 100%;
+    border-radius: 40px;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: gray;
+}
+
+li {
+    padding: 4px;
+}
+
+.center {
+    text-align: center;
+}
+
+#special {
+    background-color: rgb(45, 66, 25);
+}
